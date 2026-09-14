@@ -1,0 +1,7 @@
+streamlit
+PyGithub
+python-dotenv
+huggingface_hub
+sentence-transformers
+numpy
+torch
